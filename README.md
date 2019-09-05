@@ -11,7 +11,7 @@
 
 ### Exam
 - Midterm exam, 21/8/1398 
-- Final exam, 22/10, 1398
+- Final exam, 22/10/1398
 
 ## Lecture Schedule
 
