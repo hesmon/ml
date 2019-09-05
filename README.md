@@ -1,4 +1,4 @@
-# Statistical Learning in Bioinformatics
+# Machine Learning 
 
 ## Overview
 - **Instructor**: Kaveh Kavousi (kkavousi@ut.ac.ir) and [Hesam Montazeri](http://lcbb.ut.ac.ir) (hesam.montazeri at ut.ac.ir)
