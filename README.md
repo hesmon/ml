@@ -3,7 +3,7 @@
 ## Overview
 - **Instructor**: Kaveh Kavousi (kkavousi@ut.ac.ir) and [Hesam Montazeri](http://lcbb.ut.ac.ir) (hesam.montazeri at ut.ac.ir)
 - **Teaching Assistants**: 
-- **Time & Location**: Sep-Dec 2019, lectures are held on Mondays 10:00-12:00 and Tuesdays 13:00 to 15:00 at Ghods st. 37, Department of Bioinformatics, IBB, Tehran.
+- **Time & Location**: Sep-Dec 2019, lectures are held on Sundays 10:00-12:00 and Tuesdays 13:00-15:00 at Ghods st. 37, Department of Bioinformatics, IBB, Tehran.
 ### Textbooks
 - The Elements of Statistical Learning by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie
 - Pattern Recognition and Machine Learning by Christopher Bishop.
