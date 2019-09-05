@@ -19,4 +19,4 @@ Date | Lecture | Reading Assignments | Homeworks & Projects | By |
  ------------- | -------------------------- | ------------- | ------------- | ------ |
 31/6/1398 | Lecture 1- Introduction to statistical learning (slides)| | HW1; Project 1 | Hesam |
 2/7/1398  | Tutorial 1- introduction to R (slides) |  |  |
-7/7/1398  | Lecture 2- linear regression (slides) | | | Hesam |
+7/7/1398  | Lecture 2- linear regression (slides) | | HW2 | Hesam |
