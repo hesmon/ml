@@ -6,6 +6,7 @@
 - **Time & Location**: Sep-Dec 2019, lectures are held on Sundays 10:00-12:00 and Tuesdays 13:00-15:00 at Ghods st. 37, Department of Bioinformatics, IBB, Tehran.
 ### Textbooks
 - The Elements of Statistical Learning by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie
+- An Introduction to Statistical Learning: With Applications in R by Daniela Witten, Gareth James, Robert Tibshirani, and Trevor Hastie
 - Pattern Recognition and Machine Learning by Christopher Bishop.
 - A First Course in Machine Learning by Simon Rogers and Mark Girolami
 
