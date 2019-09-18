@@ -14,7 +14,7 @@
 - Midterm exam, 21/8/1398 
 - Final exam, 22/10/1398
 
-## Lecture Schedule
+## Lecture Schedule (tentative)
 
 Date | Lecture | Reading Assignments | Homeworks & Projects | By |
  ------------- | -------------------------- | ------------- | ------------- | ------ |
