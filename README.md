@@ -3,7 +3,7 @@
 ## Overview
 - **Instructor**: Kaveh Kavousi (kkavousi at ut.ac.ir) and [Hesam Montazeri](http://lcbb.ut.ac.ir) (hesam.montazeri at ut.ac.ir)
 - **Teaching Assistants**: Fahimeh Palizban (fahimehpalizban at ut.ac.ir) & Zohreh Toghrayee ( zohreh.toghrayee at ut.ac.ir)
-- **Time & Location**: Sep-Dec 2019, lectures are held on Sundays 10:00-12:00 and Tuesdays 13:00-15:00 at Ghods st. 37, Department of Bioinformatics, IBB, Tehran.
+- **Time & Location**: Sep-Dec 2019, lectures are held on Sundays and Tuesdays 13:00-15:00 at Ghods st. 37, Department of Bioinformatics, IBB, Tehran.
 ### Textbooks
 - The Elements of Statistical Learning by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie
 - An Introduction to Statistical Learning: With Applications in R by Daniela Witten, Gareth James, Robert Tibshirani, and Trevor Hastie
