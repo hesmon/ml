@@ -18,6 +18,6 @@
 
 Date | Lecture | Reading Assignments | Homeworks & Projects | By |
  ------------- | -------------------------- | ------------- | ------------- | ------ |
-31/6/1398 | Lecture 1- Introduction to statistical learning (slides)| |  | HM |
+31/6/1398 | Lecture 1- Introduction to machine learning;  simple linear regression (slides)| |  | HM |
 2/7/1398  | Tutorial 1- introduction to R (slides) |  |  HW1; Project 1 |
 7/7/1398  | Lecture 2- linear regression (slides) | | |  |
