@@ -19,5 +19,5 @@
 Date | Lecture | Reading Assignments | Homeworks & Projects | By |
  ------------- | -------------------------- | ------------- | ------------- | ------ |
 31/6/1398 | Lecture 1- Introduction to machine learning;  linear regression (slides)| |  | HM |
-2/7/1398  | Tutorial 1- Introduction to R (slides) Linear Algebra (slides)  | HW1 |  |
+
 
