@@ -18,6 +18,6 @@
 
 Week | Lecture | Reading Assignments | Homeworks & Projects | By |
  ------------- | -------------------------- | ------------- | ------------- | ------ |
-W1 | (31/6/1398) Lecture 1- Introduction to machine learning;  linear regression (slides) <br> <br> (2/7/1398) Tutorial 1- Introduction to R| **Required** FCML, Sec. 1.1-3 | HW1 | HM |
+W1 | (31/6/1398) Lecture 1- Introduction to machine learning;  linear regression (slides) <br> <br> (2/7/1398) Tutorial 1- Introduction to R| **Required:** FCML, Sec. 1.1-3 <br> [Linear algebra notes](http://cs229.stanford.edu/summer2019/cs229-linalg.pdf) from Stanford | HW1 | HM |
 
 
