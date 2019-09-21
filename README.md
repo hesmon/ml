@@ -11,7 +11,7 @@
 - A First Course in Machine Learning by Simon Rogers and Mark Girolami [FCML]
 
 ### Exam
-- Final exam, 23/10/1398
+- Final exam, 22/10/1398
 
 ## Lecture Schedule (tentative)
 
