@@ -12,6 +12,9 @@
 - Pattern Recognition and Machine Learning by Christopher Bishop.  [PRML]
 - A First Course in Machine Learning by Simon Rogers and Mark Girolami [FCML]
 
+### Other references
+CS229 Lecture notes at Stanford available at [here](http://cs229.stanford.edu/syllabus.html) 
+
 ### Exam
 - Final exam, 22/10/1398
 
@@ -19,6 +22,6 @@
 
 Week | Lecture | Reading Assignments | Homeworks & Projects | By |
  ------------- | -------------------------- | ------------- | ------------- | ------ |
-W1 | Logistics ([slides](lectures/W01-L00-logistics.pdf)) <br> <br> (31/6/1398) Lecture 1- Introduction to machine learning; simple linear regression ([slides](lectures/W01-L01-Introduction-to-ML.pdf)) <br> <br> (2/7/1398) Lecture 2- linear regression 2 (slides) <br> Tutorial 1- Introduction to R| **Required:** FCML, Sec. 1.1-3 <br> <br>  **Highly recommended:** Linear algebra review from Stanford ([notes](http://cs229.stanford.edu/summer2019/cs229-linalg.pdf)) | HW1 | HM |
+W1 | Logistics ([slides](lectures/W01-L00-logistics.pdf)) <br> <br> (31/6/1398) Lecture 1- Introduction to machine learning; simple linear regression ([slides](lectures/W01-L01-Introduction-to-ML.pdf)) <br> <br> (2/7/1398) Lecture 2- linear regression 2 (slides) <br> Tutorial 1- Introduction to R| **Required:** FCML, Sec. 1.1-3 <br> <br> Supervised learning class notes from Stanford [notes]((http://cs229.stanford.edu/summer2019/cs229-notes1.pdf))  <br> <br>  **Highly recommended:** Linear algebra review from Stanford ([notes](http://cs229.stanford.edu/summer2019/cs229-linalg.pdf)) | HW1 | HM |
 
 
