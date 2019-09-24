@@ -53,6 +53,7 @@ times <- function(x,y) {
 times(2,4)
 ##############################################################
 ACS_data <- read.csv(url("http://stat511.cwick.co.nz/homeworks/acs_or.csv"))
+ACS_data2 <- read.csv("Data/acs_or.csv")
 view(ACS_data)
 head(ACS_data)
 tail(ACS_data)
@@ -71,7 +72,4 @@ hist(ACS_data$number_children)
 get_table <- table(ACS_data$bedrooms)
 barplot(get_table, main="Bedrooms Distribution", xlab="Bedroom Count")
 ##############################################################
-
-
-
 
