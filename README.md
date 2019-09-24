@@ -11,6 +11,7 @@
 - An Introduction to Statistical Learning: With Applications in R by Daniela Witten, Gareth James, Robert Tibshirani, and Trevor Hastie [ISL]
 - Pattern Recognition and Machine Learning by Christopher Bishop  [PRML]
 - A First Course in Machine Learning by Simon Rogers and Mark Girolami [FCML]
+- Probabilistic Graphical Models by Daphne Koller & Nir Friedman [PGM]
 
 ### Other references
 CS229 Lecture notes at Stanford available at [here](http://cs229.stanford.edu/syllabus.html) [CS229] 
