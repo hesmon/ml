@@ -13,7 +13,7 @@
 - A First Course in Machine Learning by Simon Rogers and Mark Girolami [FCML]
 
 ### Other references
-[CS229] CS229 Lecture notes at Stanford available at [here](http://cs229.stanford.edu/syllabus.html) 
+CS229 Lecture notes at Stanford available at [here](http://cs229.stanford.edu/syllabus.html) [CS229] 
 
 ### Exam
 - Final exam, 22/10/1398
