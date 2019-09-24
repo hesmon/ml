@@ -54,7 +54,7 @@ times(2,4)
 ##############################################################
 ACS_data <- read.csv(url("http://stat511.cwick.co.nz/homeworks/acs_or.csv"))
 ACS_data2 <- read.csv("Data/acs_or.csv")
-view(ACS_data)
+View(ACS_data)
 head(ACS_data)
 tail(ACS_data)
 colnames(ACS_data)
