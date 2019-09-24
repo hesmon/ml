@@ -9,7 +9,7 @@
 ### Textbooks
 - The Elements of Statistical Learning by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie [ESL]
 - An Introduction to Statistical Learning: With Applications in R by Daniela Witten, Gareth James, Robert Tibshirani, and Trevor Hastie [ISL]
-- Pattern Recognition and Machine Learning by Christopher Bishop.  [PRML]
+- Pattern Recognition and Machine Learning by Christopher Bishop  [PRML]
 - A First Course in Machine Learning by Simon Rogers and Mark Girolami [FCML]
 
 ### Other references
