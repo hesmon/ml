@@ -19,7 +19,7 @@ CS229 Lecture notes at Stanford available at [here](http://cs229.stanford.edu/sy
 ### Exam
 - Final exam, 22/10/1398
 
-## Lecture Schedule (tentative)
+## Lecture Schedule 
 
 Week | Lecture | Reading Assignments | Homeworks & whiteboard notes | By |
  ------------- | -------------------------- | ------------- | ------------- | ------ |
