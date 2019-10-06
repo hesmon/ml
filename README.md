@@ -12,6 +12,7 @@
 - Pattern Recognition and Machine Learning by Christopher Bishop  [PRML]
 - A First Course in Machine Learning by Simon Rogers and Mark Girolami [FCML]
 - Probabilistic Graphical Models by Daphne Koller & Nir Friedman [PGM]
+- Learning from data by Abu-Mostafa, Y.S., Magdon-Ismail, M. and Lin, H.T [LFD].
 
 ### Other references
 CS229 Lecture notes at Stanford available at [here](http://cs229.stanford.edu/syllabus.html) [CS229] 
