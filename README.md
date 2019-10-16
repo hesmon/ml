@@ -29,7 +29,7 @@ W2 | (7/7/1398) Lecture 3: Linear regression in matrix form; polynomial regressi
 W3 | (14/7/1398) Lecture 5: Bias-variance decomposition; maximum likelihood estimation ([slides](lectures/W03-L05-regularization-bias-variance-tradeoff.pdf)) <br> <br> (16/7/1398) Lecture 6: Maximum a posteriori estimation; Bayesian interpretation of linear regression  | **Required:** ISL, Sec. 2.1-2, 3.1-4, 6.1   | [HW3](homeworks/HW3.pdf) <br> [WB notes*](lectures/W03-WB-notes.pdf)  | HM |
 W4 | (21/7/1398) Lecture 7: K-nearest neighbor regression; classification; KNN classifier; logistic regression ([slides](lectures/W04-L07-KNN-classification.pdf)) <br> <br> (23/7/1398) Lecture 8: Newton's method; iteratively reweighted least squares; exponential family | **Required:** ISL, Sec. 2.2.3, 3.5, 4.1-3; ESL, Sec. 4.4.1-4; PRML, Sec. 2.4 (up to 2.4.1)   | HW4  <br> WB notes | HM |
 <br>
-* Thanks to Fereshteh Fallah and Ali Maddi for kindly sharing their class notes. 
+* Thanks to Fereshteh Fallah<sup>1</sup> and Ali Maddi<sup>1</sup> for kindly sharing their class notes. 
 
 ** While uploaded students' WB notes are of high quality, the instructors have not checked all the detailed derivations for the correctness.
 
