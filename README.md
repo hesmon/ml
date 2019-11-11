@@ -32,7 +32,7 @@ W3 | (14/7/1398) Lecture 5: Bias-variance decomposition; maximum likelihood esti
 W4 | (21/7/1398) Lecture 7: K-nearest neighbor regression; classification; KNN classifier; logistic regression ([slides](lectures/W04-L07-KNN-classification.pdf)) <br> <br> (23/7/1398) Lecture 8: Newton's method; iteratively reweighted least squares; exponential family | **Required:** ISL, Sec. 2.2.3, 3.5, 4.1-3; ESL, Sec. 4.4.1-4; PRML, Sec. 2.4 (up to 2.4.1)   <br> <br>  **Optional:** MML, Sec. 5.7-8   | [HW4](homeworks/HW4.pdf)  <br> [WB notes*<sup>1</sup>](lectures/W04-WB-notes.pdf) | HM |
 W5 | (28/7/1398) Lecture 9: Exponential family; Generalized Linear Models; Discriminative vs Generative models <br> <br> (30/7/1398) Lecture 10:  Linear discriminant analysis; Naïve Bayes classifier | **Required:** CS229, parts III-IV, ISL, Sec. 4.4, ESL, Sec. 4.3  <br> <br> | [HW5](homeworks/HW5.pdf)  <br>  WB notes | HM |
 W6 | (12/8/1398) Lecture 11: Learning theory; Support Vector Machines  ([slides](lectures/W06-L11-SVM-and-Kernel-Methods.pdf))  <br> <br> | **Required:** CS229, part VI; AKM, Ch. 1; KKT notes <br> <br> **Optional:** CS229, part V | [HW6](homeworks/HW6.pdf)  | K<sup>2</sup> |
-W7 | (19/8/1398) Lecture 12: tba | **Required:** tba | HW7  | K<sup>2</sup> |
+W7 | (19/8/1398) Lecture 12: Soft margin hyperlane; Nonlinear SVM; Kernels  ([slides](lectures/W07-L12-SVM-and-Kernel-Methods-part2.pdf)) | | HW7  | K<sup>2</sup> |
 <br>
 * Thanks to Fereshteh Fallah<sup>1</sup> and Ali Maddi<sup>2</sup> for kindly sharing their class notes. 
 
