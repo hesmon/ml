@@ -33,7 +33,7 @@ W4 | (21/7/1398) Lecture 7: K-nearest neighbor regression; classification; KNN c
 W5 | (28/7/1398) Lecture 9: Exponential family; Generalized Linear Models; Discriminative vs Generative models <br> <br> (30/7/1398) Lecture 10:  Linear discriminant analysis; Naïve Bayes classifier | **Required:** CS229, parts III-IV, ISL, Sec. 4.4, ESL, Sec. 4.3  <br> <br> | [HW5](homeworks/HW5.pdf)  <br>  WB notes | HM |
 W6 | (12/8/1398) Lecture 11: Learning theory; Support Vector Machines  ([slides](lectures/W06-L11-SVM-and-Kernel-Methods.pdf))  <br> <br> | **Required:** CS229, part VI; AKM, Ch. 1; KKT notes <br> <br> **Optional:** CS229, part V | [HW6](homeworks/HW6.pdf)  | K<sup>2</sup> |
 W7 | (19/8/1398) Lecture 12: Soft margin hyperlane; Nonlinear SVM; Kernels  ([slides](lectures/W07-L12-SVM-and-Kernel-Methods-part2.pdf)) | | [HW7](homeworks/HW7.pdf)  | K<sup>2</sup> |
-W8 | (25/8/1398) Lecture 13: tba <br> <br> (26/8/1398) Lecture 14: tba  | | HW8  | HM |
+W8 | (25/8/1398) Lecture 13: Convex sets & functions; convex optimization; Linear and quadratic programming; Lagrangian duality  <br> <br> (26/8/1398) Lecture 14: tba  | | HW8  | HM |
 <br>
 * Thanks to Fereshteh Fallah<sup>1</sup> and Ali Maddi<sup>2</sup> for kindly sharing their class notes. 
 
