@@ -34,6 +34,7 @@ W5 | (28/7/1398) Lecture 9: Exponential family; Generalized Linear Models; Discr
 W6 | (12/8/1398) Lecture 11: Learning theory; Support Vector Machines  ([slides](lectures/W06-L11-SVM-and-Kernel-Methods.pdf))  <br> <br> | **Required:** CS229, part VI; AKM, Ch. 1; KKT notes <br> <br> **Optional:** CS229, part V | [HW6](homeworks/HW6.pdf)  | K<sup>2</sup> |
 W7 | (19/8/1398) Lecture 12: Soft margin hyperlane; Nonlinear SVM; Kernels  ([slides](lectures/W07-L12-SVM-and-Kernel-Methods-part2.pdf)) | | [HW7](homeworks/HW7.pdf)  | K<sup>2</sup> |
 W8 | (25/8/1398) Lecture 13: Convex sets & functions; convex optimization; Linear and quadratic programming; Lagrangian duality  <br> <br> (26/8/1398) Lecture 14: tba  | **Required:** MML, Ch. 7; further references tba   | HW8  | HM |
+W9 | (25/8/1398) Lecture 15: Neural networks  <br> <br> (26/8/1398) Lecture 16: tba  | **Required:** tba   | HW9  | K<sup>2</sup> |
 <br>
 * Thanks to Fereshteh Fallah<sup>1</sup> and Ali Maddi<sup>2</sup> for kindly sharing their class notes. 
 
