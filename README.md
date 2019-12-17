@@ -37,8 +37,8 @@ W8 | (25/8/1398) Lecture 13: Convex sets & functions; convex optimization; Linea
 W9 | (3/9/1398) Lecture 15: Performance assessment of learners ([slides](lectures/W09-L15-performance-assessment.pdf))  <br> <br> (5/9/1398) Lecture 16: Bootstrapping  | **Required:** ISL 5.2   | [HW9](homeworks/HW9.pdf)  | K<sup>2</sup>  <br>  <br> HM |
 W10 | (10/9/1398) Lecture 17: Statistical hypothesis testing; p-value; statistical testing for comparing machine learners <br> <br> (12/9/1398) Lecture 18: Feature selection methods ([slides](lectures/W10-L18-feature-selection.pdf))  | **Required:** [Jason Brownlee's notes on comparing machine learners](https://machinelearningmastery.com/statistical-significance-tests-for-comparing-machine-learning-algorithms/)    | [HW10](homeworks/HW10.pdf) |  HM  <br><br> K<sup>2</sup>   |
 W11 | (17/9/1398) Lecture 19: Decision/regression trees; Bagging; random forest  <br> <br> (19/9/1398) Lecture 20: Boosting   ([slides](lectures/W11-L20-boosting.pdf))| **Required:** ESL, Sec. 8.7, 9.2, 10.1-6, 15.1-3; ISL Ch. 8   | [HW11](homeworks/HW11.pdf)  | HM |
-W12 | (24/9/1398) Lecture 21: Multiple Classifier System ([slides](lectures/W12-L21-Classification-and-MCS.pdf))  <br> <br> (26/9/1398) Lecture 22: tba  |   | [HW12](homeworks/HW12.pdf)  | K<sup>2</sup> |
-W13 | (1/10/1398) Lecture 23: tba  <br> <br> (3/10/1398) Lecture 24: tba  | **Required:** tba   | HW13  |  |
+W12 | (24/9/1398) Lecture 21: Multiple Classifier System ([slides](lectures/W12-L21-Classification-and-MCS.pdf))  <br> <br>  |   | [HW12](homeworks/HW12.pdf)  | K<sup>2</sup> |
+W13 |  (30/9/1398) Lecture 22: Neural networks  <br> <br> (1/10/1398) Lecture 23: tba  <br> <br> (3/10/1398) Lecture 24: tba  | **Required:** tba   | HW13  |  |
 W14 | (8/10/1398) Lecture 25: tba  <br> <br> (10/10/1398) Lecture 26: tba  | **Required:** tba   | HW14  |  |
 W15 | (15/10/1398) Lecture 27: tba  <br> <br> (17/10/1398) Lecture 28: tba  | **Required:** tba   |   |  |
 
