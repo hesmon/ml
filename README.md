@@ -40,7 +40,7 @@ W11 | (17/9/1398) Lecture 19: Decision/regression trees; Bagging; random forest 
 W12 | (24/9/1398) Lecture 21: Multiple Classifier System ([slides](lectures/W12-L21-Classification-and-MCS.pdf))  <br> <br>  |   | [HW12](homeworks/HW12.pdf)  | K<sup>2</sup> |
 W13 |  (30/9/1398) Lecture 22: Bayesian inference; conjugate models; Bayesian linear regression; Laplace approximation  ([slides](lectures/W13-L22-bayesian-inference.pdf)) <br> <br> (1/10/1398) Lecture 23: Clustering algorithms  <br> <br> (3/10/1398) Lecture 24: Clustering algorithms  | **Required:** FCML, Ch. 4-5; PRML, Sec. 3.3; Clustering slides at the shared Google folder   | [HW13](homeworks/HW13.pdf)  | HM <br><br> K<sup>2</sup> |
 W14 | (8/10/1398) Lecture 25: Markov chain Monte Carlo; principal component analysis <br> <br> (10/10/1398) Lecture 26: Neural networks  | **Required:** MML, Sec. 10.1-2; ESL, Sec. 11.3|  [HW14](homeworks/HW14.pdf)  | HM |
-W15 | (15/10/1398) Lecture 27: tba  <br> <br> (17/10/1398) Lecture 28: tba  | **Required:** tba   |   |  |
+W15 | (15/10/1398) Lecture 27: Debugging learning algorithms  <br> <br> (17/10/1398) Lecture 28: tba  | **Required:** [Andrew Ng’s slides](https://see.stanford.edu/materials/aimlcs229/ML-advice.pdf); tba   |   |  |
 
 <br>
 * Thanks to Fereshteh Fallah<sup>1</sup> and Ali Maddi<sup>2</sup> for kindly sharing their class notes. 
