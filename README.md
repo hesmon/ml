@@ -27,5 +27,5 @@
 
 Week | Lecture | Reading Assignments | Homeworks & whiteboard notes | By |
  ------------- | -------------------------- | ------------- | ------------- | ------ |
-W1 | (13/11/1398) Lecture 1-  <br> <br>  (15/11/1398) Lecture 2-  <br> <br> | **Required:** | HW1 | HM |
+W1 | (13/11/1398) Lecture 1- Introduction to machine learning <br> <br>  (15/11/1398) Lecture 2-  <br> <br> | **Required:** | HW1 | HM |
 
