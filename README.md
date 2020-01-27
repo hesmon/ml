@@ -8,7 +8,7 @@
 
 ### Previous Offerings
 - [Fall 2019](Fall2019/) 
-### Textbooks
+### Textbooks and references
 - The Elements of Statistical Learning by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie [ESL]
 - An Introduction to Statistical Learning: With Applications in R by Daniela Witten, Gareth James, Robert Tibshirani, and Trevor Hastie [ISL]
 - Pattern Recognition and Machine Learning by Christopher Bishop  [PRML]
@@ -17,13 +17,10 @@
 - Learning from data by Abu-Mostafa, Y.S., Magdon-Ismail, M. and Lin, H.T [LFD].
 - Mathematics for Machine Learning by Marc Peter Deisenroth, A Aldo Faisal, and Cheng Soon Ong [MML].
 - Advances in Kernel Methods: Support Vector Learning by Christopher J.C. Burges, Bernhard Schölkopf and Alexander J. Smola [AKM]
+- CS229 Lecture notes at Stanford available at [here](http://cs229.stanford.edu/syllabus.html) [CS229] 
 
-### Other references
-CS229 Lecture notes at Stanford available at [here](http://cs229.stanford.edu/syllabus.html) [CS229] 
-
-### Exam schedule
+### Exam Schedule and Previous Exams
 - Final exam, 1/7/1399 
-### Previous Exams
 - Fall 2019: [[Exam](Exams/ML-2019-fall.pdf)] [Solutions]
 
 ## Lecture Schedule 
