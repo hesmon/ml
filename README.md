@@ -2,7 +2,7 @@
 
 ## Overview
 - **Instructor**: [Hesam Montazeri](http://lcbb.ut.ac.ir) (hesam.montazeri at ut.ac.ir) and [Kaveh Kavousi](http://cbb.ut.ac.ir) (kkavousi at ut.ac.ir)
-- **Teaching Assistants**: Fahimeh Palizban (fahimehpalizban at ut.ac.ir) & Zohreh Toghrayee (zohreh.toghrayee at ut.ac.ir)
+- **Teaching Assistants**: Fereshteh Fallah (fereshteh.fallah at ut.ac.ir) & Mozhgan Mozaffari Legha (m.mozaffarilegha at ut.ac.ir)
 - **Time & Location**: January-June 2020, lectures are held on Sundays and Tuesdays 15:00-17:00 at Ghods st. 37, Department of Bioinformatics, IBB, Tehran.
 - **[Google Calendar](https://calendar.google.com/calendar/embed?src=kcusveuj8kebja2cjf909fu8kk%40group.calendar.google.com&ctz=Asia%2FTehran)**: for the detailed schedule, add the course calendar to your calendars!
 
