@@ -19,14 +19,14 @@
 ### Other references
 CS229 Lecture notes at Stanford available at [here](http://cs229.stanford.edu/syllabus.html) [CS229] 
 
-### Exam
-- Final exam, 1/11/1398 (Previous Exams: Fall2019)
+### Exam schedule
+- Final exam, 1/7/1399 
+### Previous Exams
+- Fall 2019: [[Exam](Exams/ML-2019-fall.pdf)] [Solutions]
 
 ## Lecture Schedule 
 
 Week | Lecture | Reading Assignments | Homeworks & whiteboard notes | By |
  ------------- | -------------------------- | ------------- | ------------- | ------ |
-W1 | Logistics ([slides](lectures/W01-L00-logistics.pdf)) <br> <br> (31/6/1398) Lecture 1- Introduction to machine learning; simple linear regression- gradient descent algorithm ([slides](lectures/W01-L01-Introduction-to-ML.pdf)) <br> <br> (2/7/1398) Lecture 2- linear regression- analytical solution; mathematical formulation in matrix form <br>  <br> Tutorial 1- Introduction to R ([slides](tutorials/Tut01-introduction-to-R.pdf)) | **Required:** FCML, Sec. 1.1-3 <br> <br> CS229, Supervised learning ([notes](http://cs229.stanford.edu/summer2019/cs229-notes1.pdf))  <br> <br>  **Highly recommended:** Linear algebra review from Stanford ([notes](http://cs229.stanford.edu/summer2019/cs229-linalg.pdf)) | [HW1](homeworks/HW1.pdf) <br> [WB notes*<sup>1</sup>](lectures/W01-WB-notes.pdf)| HM |
-W2 | (7/7/1398) Lecture 3: Linear regression in matrix form; polynomial regression; basis functions <br> <br> (9/7/1398) Lecture 4: Ridge regression; The LASSO; generalization error; cross validation  | **Required:** FCML, Sec. 1.4-6; ESL, P. 43-46, Sec. 3.4.1-3, 7.10 <br> <br> **Recommended:** ISL Sec. 5.1, 6.2   | [HW2](homeworks/HW2.pdf) <br> [WB notes*<sup>2</sup>](lectures/W02-WB-notes.pdf)  | HM |
-W3 | (14/7/1398) Lecture 5: Bias-variance decomposition; maximum likelihood estimation ([slides](lectures/W03-L05-regularization-bias-variance-tradeoff.pdf)) <br> <br> (16/7/1398) Lecture 6: Maximum a posteriori estimation; Bayesian interpretation of linear regression  | **Required:** ISL, Sec. 2.1-2, 3.1-4, 6.1   | [HW3](homeworks/HW3.pdf) <br> [WB notes*<sup>1</sup>](lectures/W03-WB-notes.pdf)  | HM |
+W1 | | **Required:**  | HW1 | HM |
 
