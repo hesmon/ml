@@ -7,7 +7,7 @@
 - **[Google Calendar](https://calendar.google.com/calendar/embed?src=kcusveuj8kebja2cjf909fu8kk%40group.calendar.google.com&ctz=Asia%2FTehran)**: for the detailed schedule, add the course calendar to your calendars!
 
 ### Previous Offerings
-- [Fall 2019](Fall2019/) 
+- [Fall 2019](PreviousOfferings/Fall2019/) 
 ### Textbooks and references
 - The Elements of Statistical Learning by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie [ESL]
 - An Introduction to Statistical Learning: With Applications in R by Daniela Witten, Gareth James, Robert Tibshirani, and Trevor Hastie [ISL]
