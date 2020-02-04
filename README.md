@@ -27,5 +27,5 @@
 
 Week | Lecture | Reading Assignments | Homeworks & whiteboard notes | By |
  ------------- | -------------------------- | ------------- | ------------- | ------ |
-W1 | Logistics ([slides](lectures/W01-L00-logistics.pdf)) <br> <br> (13/11/1398) Lecture 1- Introduction to machine learning; KNN; Nadaraya-Watson Kernel regression <br> <br>  (15/11/1398) Lecture 2- Simple linear regression; brief review of linear algebra and multivariable calculus  <br> <br> | **Required:** tba | [HW1](homeworks/HW1.pdf) | HM |
+W1 | Logistics ([slides](lectures/W01-L00-logistics.pdf)) <br> <br> (13/11/1398) Lecture 1- Introduction to machine learning; KNN; Nadaraya-Watson Kernel regression <br> <br>  (15/11/1398) Lecture 2- Simple linear regression; brief review of linear algebra and multivariable calculus  <br> <br> | **Required:** FCML, Sec. 1.1-3; ISL, Sec. 2.1; ESL, Sec. 6.1; <br> <br>  **Highly recommended:** CS229, Linear algebra review ([notes](http://cs229.stanford.edu/summer2019/cs229-linalg.pdf)) | [HW1](homeworks/HW1.pdf) | HM |
 
