@@ -28,7 +28,9 @@
 Week | Lecture | Reading Assignments | Homeworks & whiteboard notes | By |
  ------------- | -------------------------- | ------------- | ------------- | ------ |
 W1 | Logistics ([slides](lectures/W01-L00-logistics.pdf)) <br> <br> (13/11/1398) Lecture 1- Introduction to machine learning; KNN; Nadaraya-Watson Kernel regression <br> <br>  (15/11/1398) Lecture 2- Simple linear regression; brief review of linear algebra | **Required:** FCML, Sec. 1.1-3; ISL, Sec. 2.1; ESL, Sec. 6.1; <br> <br>  **Highly recommended:** CS229, Linear algebra review ([notes](http://cs229.stanford.edu/summer2019/cs229-linalg.pdf)) | [HW1](homeworks/HW1.pdf) <br> [WB notes*](lectures/W01-WB-notes.pdf) | HM |
-W2 | (20/11/1398) Lecture 3- Multiple linear regression in matrix form; polynomial regression; basis functions; generalization error <br> <br>  (21/11/1398) Lecture 4- Cross validation; bias-variance decomposition; ridge regression ([slides](lectures/W02-L04-regression.pdf))  | **Required:** tba | HW2 | HM |
+W2 | (20/11/1398) Lecture 3- Multiple linear regression in matrix form; polynomial regression; basis functions; generalization error <br> <br>  (21/11/1398) Lecture 4- Cross validation; bias-variance decomposition; ridge regression ([slides](lectures/W02-L04-regression.pdf))  | **Required:** FCML, Sec. 1.4-6; ESL, P. 43-46,  7.10 <br> <br> **Recommended:** ISL Sec. 5.1, 6.2  | HW2 | HM |
+W3 | (27/11/1398) Lecture 5- Ridge regression (cont.); the Lasso; tba <br> <br>  (29/11/1398) Lecture 6- tba | **Required:** ESL Sec. 3.4.1-3; tba | HW3 | HM |
+
 
 
 <br>
