@@ -20,7 +20,7 @@
 CS229 Lecture notes at Stanford available at [here](http://cs229.stanford.edu/syllabus.html) [CS229] 
 
 ### Exam
-- Final exam, 1/11/1398
+-  [Final exam](../../Exams/ML-2019-fall.pdf), 1/11/1398 
 
 ## Lecture Schedule 
 
