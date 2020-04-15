@@ -31,7 +31,7 @@ W1 | Logistics ([slides](lectures/W01-L00-logistics.pdf)) <br> <br> (13/11/1398)
 W2 | (20/11/1398) Lecture 3- Multiple linear regression in matrix form; polynomial regression; basis functions; generalization error <br> <br>  (21/11/1398) Lecture 4- Cross validation; bias-variance decomposition; ridge regression ([slides](lectures/W02-L04-regression.pdf))  | **Required:** FCML, Sec. 1.4-6; ESL, P. 43-46,  7.10 <br> <br> **Recommended:** ISL Sec. 5.1, 6.2  |  [HW2](homeworks/HW2.pdf) <br> [WB notes*](lectures/W02-WB-notes.pdf) | HM |
 W3 | (27/11/1398) Lecture 5- Ridge regression (cont.); Lasso; maximum likelihood estimatio; maximum a posteriori estimation;  probabilistic view of linear regression  <br> <br>  (29/11/1398) Lecture 6- Bayesian interpretation of linear regression; tutorial on Lagrange multiplier by Fereshteh Fallah  | **Required:** ESL Sec. 3.4.1-3; ISL Sec. 3.1-4 and 6.1-2 | [HW3](homeworks/HW3.pdf) <br> [WB notes*](lectures/W03-WB-notes.pdf) | HM |
 W4 | Lecture 7-  K-nearest neighbor regression; classification; logistic regression <br> <br>  Lecture 8- Newton's method; iteratively reweighted least squares; exponential family | **Required:**  ISL, Sec. 2.2.3, 3.5, 4.1-3; ESL, Sec. 4.4.1-4; ESL, Sec. 4.4.1-4; PRML, Sec. 2.4 (up to 2.4.1) <br> <br> **Recommended:**  MML, Sec. 5.7-8 | [HW4](homeworks/HW4.pdf) <br>  [Class notes*](lectures/W04-WB-notes.pdf)  | HM |
-
+W5 |  Lecture 9: Generalized Linear Models; Discriminative vs Generative models <br> <br> Lecture 10:  Linear discriminant analysis; Naïve Bayes classifier | **Required:** CS229, parts III-IV, ISL, Sec. 4.4, ESL, Sec. 4.3  <br> <br> | HW5 <br>  Class notes* | HM |
 
 
 <br>
