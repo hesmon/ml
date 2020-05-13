@@ -33,6 +33,9 @@ W3 | (27/11/1398) Lecture 5- Ridge regression (cont.); Lasso; maximum likelihood
 W4 | Lecture 7-  K-nearest neighbor regression; classification; logistic regression <br> <br>  Lecture 8- Newton's method; iteratively reweighted least squares; exponential family | **Required:**  ISL, Sec. 2.2.3, 3.5, 4.1-3; ESL, Sec. 4.4.1-4; ESL, Sec. 4.4.1-4; PRML, Sec. 2.4 (up to 2.4.1) <br> <br> **Recommended:**  MML, Sec. 5.7-8 | [HW4](homeworks/HW04.pdf) <br>  [Class notes*](lectures/W04-WB-notes.pdf)  | HM |
 W5 |  Lecture 9: Generalized Linear Models; Discriminative vs Generative models <br> <br> Lecture 10:  Linear discriminant analysis; Naïve Bayes classifier | **Required:** CS229, parts III-IV, ISL, Sec. 4.4, ESL, Sec. 4.3  <br> <br> | [HW5](homeworks/HW05.pdf) <br>  [Class notes*](lectures/W05-WB-notes.pdf)  | HM |
 W6 |  Lecture 11:  Convex sets & functions; convex optimization; Linear and quadratic programming; Lagrangian duality <br> <br> Lecture 12: KKT conditions; Subgradient; coordinate descent algorithm   | **Required:**  MML, Ch. 7   <br> <br> | [HW6](homeworks/HW06.pdf) <br> [Class notes*](lectures/W06-WB-notes.pdf)  | HM |
+W7 |  Lecture 13-14: Learning theory; Support Vector Machines   | <br> <br> | HW7  | HM |
+W8 |  Lecture 15: Soft margin hyperlane; Nonlinear SVM; Kernels <br> <br> Lecture 16:  coordinate descent algorithm for linear regression and Lasso; sequential minimal optimization  | **Required:**  CS229, part V  <br> <br> | HW8 <br> Class notes*  | HM |
+
 
 
 <br>
