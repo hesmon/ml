@@ -34,7 +34,7 @@ W4 | Lecture 7-  K-nearest neighbor regression; classification; logistic regress
 W5 |  Lecture 9: Generalized Linear Models; Discriminative vs Generative models <br> <br> Lecture 10:  Linear discriminant analysis; Naïve Bayes classifier | **Required:** CS229, parts III-IV, ISL, Sec. 4.4, ESL, Sec. 4.3  <br> <br> | [HW5](homeworks/HW05.pdf) <br>  [Class notes*](lectures/W05-WB-notes.pdf)  | HM |
 W6 |  Lecture 11:  Convex sets & functions; convex optimization; Linear and quadratic programming; Lagrangian duality <br> <br> Lecture 12: KKT conditions; Subgradient; coordinate descent algorithm   | **Required:**  MML, Ch. 7   <br> <br> | [HW6](homeworks/HW06.pdf) <br> [Class notes*](lectures/W06-WB-notes.pdf)  | HM |
 W7 |  Lecture 13-14: Learning theory; support vector machines   | <br> <br> | HW7  <br> [Class notes*](lectures/W07-class-notes.pdf)  | K<sup>2</sup> |
-W8 |  Lecture 15: Soft margin hyperlane; nonlinear SVM; Kernels <br> <br> Lecture 16:  Coordinate descent algorithm for linear regression and Lasso; sequential minimal optimization  | **Required:**  CS229, part V  <br> <br> | | [HW8](homeworks/HW08.pdf) <br> [Class notes*](lectures/W08-class-notes-SVM.pdf)  | K<sup>2</sup> <br><br> HM |
+W8 |  Lecture 15: Soft margin hyperlane; nonlinear SVM; Kernels <br> <br> Lecture 16:  Coordinate descent algorithm for linear regression and Lasso; sequential minimal optimization  | **Required:**  CS229, part V  <br> <br> |  [HW8](homeworks/HW08.pdf) <br> [Class notes*](lectures/W08-class-notes-SVM.pdf)  | K<sup>2</sup> <br><br> HM |
 W9 |  Tutorial: Introduction to Python by M. A. Kateb Saber  <br> <br> Lecture 17: Introduction to p-values; Bootstrapping   | **Required:**   ISL 5.2  <br> <br> | HW9 <br> Class notes*  |  HM |
 
 
