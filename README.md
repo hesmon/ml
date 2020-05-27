@@ -36,7 +36,7 @@ W6 |  Lecture 11:  Convex sets & functions; convex optimization; Linear and quad
 W7 |  Lecture 13-14: Learning theory; support vector machines   | <br> <br> | HW7  <br> [Class notes*](lectures/W07-class-notes.pdf)  | K<sup>2</sup> |
 W8 |  Lecture 15: Soft margin hyperlane; nonlinear SVM; Kernels <br> <br> Lecture 16:  Coordinate descent algorithm for linear regression and Lasso; sequential minimal optimization  | **Required:**  CS229, part V  <br> <br> |  [HW8](homeworks/HW08.pdf) <br> [Class notes*](lectures/W08-class-notes-SVM.pdf)  | K<sup>2</sup> <br><br> HM |
 W9 |  Tutorial: Introduction to Python by M. A. Kateb Saber  <br> <br> Lecture 17: Introduction to p-values; Bootstrapping   | **Required:**   ISL 5.2  <br> <br> | HW9 <br> Class notes*  |  HM |
-
+W10 |  Lecture 18: Performance assessment of learners  <br> <br> Lecture 19: statistical testing for comparing machine learners   | **Required:** [Jason Brownlee's notes on comparing machine learners](https://machinelearningmastery.com/statistical-significance-tests-for-comparing-machine-learning-algorithms/)   <br> <br> | HW9 <br> Class notes*  | K<sup>2</sup> <br><br> HM |
 
 
 <br>
