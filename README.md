@@ -38,7 +38,9 @@ W8 |  Lecture 15: Soft margin hyperlane; nonlinear SVM; Kernels <br> <br> Lectur
 W9 |  Tutorial: Introduction to Python by M. A. Kateb Saber  <br> <br> Lecture 17: Introduction to p-values; Bootstrapping   | **Required:**   ISL 5.2  <br> <br> | [HW9](homeworks/HW09.pdf) <br> Class notes*  |  HM |
 W10 |  Lecture 18: Performance assessment of learners  <br> <br> Lecture 19: statistical testing for comparing machine learners   | **Required:** [Jason Brownlee's notes on comparing machine learners](https://machinelearningmastery.com/statistical-significance-tests-for-comparing-machine-learning-algorithms/)   <br> <br> | <br> Class notes*  | K<sup>2</sup> <br><br> HM |
 W11 |  Lecture 20: Decision/regression trees; Bagging  <br> <br> Lecture 21: Feature selection methods   | **Required:** ESL, Sec. 8.7, 9.2; ISL Ch. 8  <br> <br> | [HW10/11](homeworks/HW10-11.pdf) <br> Class notes*  |  HM <br><br> K<sup>2</sup> |
-W12 |  Lecture 22: random forest; boosting trees  <br> <br> Lecture 23: Clustering algorithms   | **Required:** ESL, Sec. 10.1-6, 15.1-3 <br> <br> | HW12 <br> Class notes*  |  HM <br><br> K<sup>2</sup> |
+W12 |  Lecture 22: random forest; boosting trees  <br> <br> Lecture 23: Neural networks   | **Required:** ESL, Sec. 10.1-6, 15.1-3; ESL, Sec. 11.3(NN) <br> <br> | HW12 <br> Class notes*  |  HM  |
+W13 |  Lecture 24-25: Clustering algorithms    | |  |   K<sup>2</sup> |
+Neural networks
 
 
 <br>
