@@ -20,7 +20,7 @@
 - CS229 Lecture notes at Stanford available at [here](http://cs229.stanford.edu/syllabus.html) [CS229] 
 
 ###  Current and previous Exams
-- Spring 202: [[Exam](Exams/ML-exam-spring-2020.pdf] [Solutions]
+- Spring 202: [[Exam](Exams/ML-exam-spring-2020.pdf)] [Solutions]
 - Fall 2019: [[Exam](Exams/ML-2019-fall.pdf)] [[Solutions](Exams/ML-2019-fall-solutions.pdf)]
 
 
